@@ -3,7 +3,6 @@
   "bracketSpacing": true,
   "embeddedLanguageFormatting": "auto",
   "htmlWhitespaceSensitivity": "css",
-  "jsxBracketSameLine": false,
   "jsxSingleQuote": false,
   "printWidth": 80,
   "proseWrap": "preserve",
@@ -13,6 +12,5 @@
   "trailingComma": "es5",
   "useTabs": false,
   "semi": true,
-  "endOfLine": "lf",
-  "editorconfig": true
+  "endOfLine": "lf"
 }
