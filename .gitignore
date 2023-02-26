@@ -1,1 +1,18 @@
-node_modules/
+# dependencies
+node_modules
+
+# compiled output
+dist
+
+# logs
+logs
+
+# dotenv environment variables
+.env
+
+# local env files
+.env.local
+
+# IDEs and editors
+.idea
+.vscode
